@@ -21,3 +21,12 @@ Tasks:
 
 
 <img width="614" height="400" alt="image" src="https://github.com/user-attachments/assets/5eaf4e15-26c7-4443-8b39-6a32526ea272" />
+
+
+
+
+
+
+
+<img width="584" height="268" alt="image" src="https://github.com/user-attachments/assets/594531d0-88e1-45be-8439-b49cbbbb6d3c" />
+
