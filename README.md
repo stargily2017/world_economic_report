@@ -10,12 +10,12 @@ In 1960, Europe and North America produced 75% of GDP on 20%  of population.
 
 
 Tasks:
-Create a stacked area chart showing the growth of GDP over time, with each stack representing a geographic region.
-Create a stacked area chart showing the growth of population over time, with each stack representing a geographic region.
-Create a bubble chart with life expectancy for each country in the x-axis, GDP per capita in the y-axis (log scale), and population as the bubble size.
-Create a bar chart to show average HDI by region.
-Create a scatterplot with power consumption in the x-axis and GDP per capita in the y-axis, then use HDI as a color scale for the dots.
-## Final report of Global Economic Development from 1960-2018
+1. Create a stacked area chart showing the growth of GDP over time, with each stack representing a geographic region./
+2. Create a stacked area chart showing the growth of population over time, with each stack representing a geographic region./
+3. Create a bubble chart with life expectancy for each country in the x-axis, GDP per capita in the y-axis (log scale), and population as the bubble size./
+4. Create a bar chart to show average HDI by region./
+5. Create a scatterplot with power consumption in the x-axis and GDP per capita in the y-axis, then use HDI as a color scale for the dots./
+6. ## Final report of Global Economic Development from 1960-2018
 
 
 
